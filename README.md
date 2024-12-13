@@ -12,7 +12,7 @@ One of the projects of Udemy's "The Complete 2024 Web Development Bootcamp".
 CSS, JavaScript and EJS (Embedded JavaScript).
 
 <h2>Getting started :</h2>
-- Open the project in the editor (Visual studio code is recommended).<br/>
+- Open the project in the text editor (Visual studio code is recommended).<br/>
 - Open terminal.<br/>
 - Type "npm install" to install node modules.<br/>
 - Type "nodemon index.js" to run the application.
