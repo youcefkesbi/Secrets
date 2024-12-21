@@ -18,5 +18,4 @@ CSS, JavaScript and EJS (Embedded JavaScript).
 - Type "nodemon index.js" to run the application.
 
 <h2>Author :</h2>
-Youcef Kesbi <a href="https://github.com/youcefkesbi" target="_blank"> <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="GitHub" style="margin-right: 10px;">
-</a>
+Youcef Kesbi
