@@ -9,7 +9,7 @@ One of the projects of Udemy's "The Complete 2024 Web Development Bootcamp".
 <img width="332" alt="Screenshot 2" src="https://github.com/user-attachments/assets/fdd106bc-a03a-431d-8125-3b37f731cb1e">
 
 <h2>Built with :</h2>
-CSS, JavaScript and EJS (Embedded JavaScript).
+CSS, JavaScript, Express JS, Node JS and EJS (Embedded JavaScript).
 
 <h2>Getting started :</h2>
 - Open the project in the text editor (Visual studio code is recommended).<br/>
