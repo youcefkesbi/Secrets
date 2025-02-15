@@ -1,6 +1,6 @@
 <h1>SECRETS! 🤫</h1>
 
-An API that shows a new secret every time you refresh the page and hover over the picture.
+An API that shows a new secret every time you refresh the page and hover over the picture.<br/>
 One of the projects of Udemy's "The Complete 2024 Web Development Bootcamp".
 
 <h2>Screenshots :</h2>
